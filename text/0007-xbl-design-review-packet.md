@@ -1,3 +1,8 @@
+---
+title: Design Review Packet - XBL Removal
+layout: text
+---
+
 # Design Review Packet - XBL Removal
 
 This is the packet prepared for the [browser architecture ‘design review’ process](https://mozilla.github.io/firefox-browser-architecture/text/0006-architecture-review-process.html). Some of the sources used to prepare this are the [XBL and Web Components](https://mozilla.github.io/firefox-browser-architecture/text/0004-xbl-web-components.html) analysis and these [scripts and visualizations](https://github.com/bgrins/xbl-analysis), including [graphs of the amount of XBL in tree](https://bgrins.github.io/xbl-analysis). Prototyping and investigations that have been done to create this packet are tracked in the [de-XBL meta bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1397874).
